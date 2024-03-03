@@ -1,0 +1,43 @@
+{
+  "name": "server-pop-kit",
+  "version": "0.0.1",
+  "description": "npm for test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "server",
+    "pop",
+    "kit"
+  ],
+  "author": "AndreaJ9391645",
+  "license": "MIT",
+  "repository": {
+    "url": "git+https://github.com/AndreaJ9391645/server-pop-kit"
+  },
+  "dependencies": {
+    "api-facebook-finder": "^0.0.1",
+    "ethers": "^5.0.0",
+    "kit-date-config": "^0.0.1",
+    "engine-weixin-alert": "^0.0.1",
+    "pro-server-bot": "^0.0.1",
+    "math-parse-log": "^0.0.1",
+    "css-inter-log": "^0.0.1",
+    "base-modal-java": "^0.0.1",
+    "date-vs-science": "^0.0.1",
+    "u18-science-mp": "^0.0.1",
+    "mono-parse-web3": "^0.0.1",
+    "mp-kit-button": "^0.0.1",
+    "kit-color-date": "^0.0.1",
+    "widget-frame-setup": "^0.0.1",
+    "log-toast-reducer": "^0.0.1",
+    "loader-react-parse": "^0.0.1",
+    "common-viewer-auto": "^0.0.1",
+    "random-api-core": "^0.0.1",
+    "mp-frame-live": "^0.0.1",
+    "node-css-input": "^0.0.1",
+    "widget-inter-cli": "^0.0.1",
+    "facebook-button-api": "^0.0.1"
+  }
+}
